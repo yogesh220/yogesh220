@@ -13,11 +13,11 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a-->
 
-![](https://visitor-badge.glitch.me/badge?page_id=arjundhav.arjundhav)
+![](https://visitor-badge.glitch.me/badge?page_id=yogesh220.yogesh220)
 
 <br> 
 
-Hi, I'm [Yogesh Pawar](), a passionate self-taught Full Stack web developer and a freelance Web Developer from India. My passion for Web Designing lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the code quality,user responsive designs & best of my capabilities to the things I build.
+Hi, I'm [Yogesh Pawar](https://github.com/yogesh220/), a passionate self-taught Full Stack web developer and a freelance Web Developer from India. My passion for Web Designing lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the code quality,user responsive designs & best of my capabilities to the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
